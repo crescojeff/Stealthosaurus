@@ -31,3 +31,6 @@ a text editor and add the appropriate header, then open in GIMP.
 
 Decoded messages will be place in the assets directory, with a name prefix "result_secret_in_".  They can be viewed with any text editor and
 should match the original character array.
+
+KNOWN ISSUES:
+Last time I checked, and this was a while ago, decoding doesn't quite work for some reason, even for charbyn encoding.  It used to work... 
